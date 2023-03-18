@@ -1,0 +1,12 @@
+.card {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px 2px #454545;
+  cursor: pointer;
+}
+
+.cardImg {
+  width: 270px;
+  height: 200px;
+  object-fit: cover;
+}
